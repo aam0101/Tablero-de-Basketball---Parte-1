@@ -136,13 +136,12 @@ git clone <https://github.com/aam0101/Tablero-de-Basketball---Parte-1>
 
 ## 📷 Capturas de Pantalla
 
-```
+### 🖼️ MainActivity — Marcador en tiempo real
+![Main Activity](captures/main_activity.jpg)
 
-[Texto alternativo](ruta/de/la/imagen.jpg)
+### 🖼️ ScoreActivity — Resultado final
+![Score Activity](captures/score_activity.jpg)
 
-[Texto alternativo](ruta/de/la/imagen.jpg)
-
-```
 
 ## 📚 Buenas Prácticas Aplicadas
 
