@@ -1,9 +1,3 @@
-# Basketball Score App
-
-Proyecto Android completo desarrollado como parte de la **Tarea Final del 1.º Trimestre**, integrando prácticas reales de desarrollo móvil y cumpliendo los requisitos descritos en el documento de la actividad.
-
-Este README combina un enfoque **académico + profesional**, ideal para entregar al profesor y a la vez subirlo a GitHub.
-
 ---
 
 ## 📌 Objetivo del Proyecto
@@ -104,9 +98,6 @@ setContentView(binding.getRoot());
 binding.btnAddLocal1.setOnClickListener(v -> addPointsLocal(1));
 ```
 
-Esto cumple exactamente el requisito 04 del PDF:  
-✔ *“Configura y utiliza Data Binding para acceder a todas las vistas…”* fileciteturn0file0
-
 ---
 
 ## ✨ Diseño de Interfaces
@@ -114,8 +105,6 @@ Esto cumple exactamente el requisito 04 del PDF:
 - Se ha utilizado **ConstraintLayout**
 - Todos los textos están en `strings.xml`
 - Se han aplicado estilos coherentes para claridad y usabilidad
-
-Esto cumple todo el punto 01 del documento. fileciteturn0file0
 
 ---
 
@@ -128,15 +117,13 @@ Implementación correcta de:
 - Reset del partido  
 - Actualización en tiempo real  
 
-Cumple los requisitos del punto 02 del documento. fileciteturn0file0
-
 ---
 
 ## 🚀 Instrucciones de Ejecución
 
 1. Clonar el repositorio:
 ```bash
-git clone <tu-repo>
+git clone <https://github.com/aam0101/Tablero-de-Basketball---Parte-1>
 ```
 
 2. Abrir en **Android Studio**
@@ -147,29 +134,15 @@ git clone <tu-repo>
 
 ---
 
-## 📷 Capturas de Pantalla (añádelas aquí)
-
-> 📌 El PDF exige **capturas de ambas pantallas funcionando**.  
-> Añade dos imágenes aquí cuando exportes tu README:
+## 📷 Capturas de Pantalla
 
 ```
-![Main Activity](captures/main_activity.jpg)
-![Score Activity](captures/score_activity.jpg)
+
+[Texto alternativo](ruta/de/la/imagen.jpg)
+
+[Texto alternativo](ruta/de/la/imagen.jpg)
+
 ```
-
----
-
-## 📊 Rúbrica y Cumplimiento
-
-| Criterio | Cumplimiento |
-|---------|--------------|
-| Diseño de Interfaces | ✔ Completado con ConstraintLayout y strings.xml |
-| Lógica de Marcador | ✔ Suma, resta y reset con validación |
-| Navegación y Datos | ✔ Explicit Intent con constantes |
-| Data Binding | ✔ Implementado correctamente |
-| Calidad y Entrega | ✔ Código limpio + README detallado |
-
----
 
 ## 📚 Buenas Prácticas Aplicadas
 
@@ -183,5 +156,5 @@ git clone <tu-repo>
 
 ## 🧑‍💻 Autor
 
-Proyecto desarrollado por **Alberto (Spidey)** 🕷️  
-Tarea Final — Desarrollo Android  
+Proyecto desarrollado por Alberto Alcalde Montero 
+
