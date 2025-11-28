@@ -1,5 +1,3 @@
----
-
 ## 📌 Objetivo del Proyecto
 
 Crear una aplicación Android funcional para gestionar el marcador de un partido de baloncesto, aplicando:
@@ -9,8 +7,7 @@ Crear una aplicación Android funcional para gestionar el marcador de un partido
 - **Data Binding** para evitar `findViewById`
 - Gestión avanzada de recursos (`strings.xml`)
 - Buenas prácticas de desarrollo Android
-
----
+  
 
 ## 🏀 Funcionalidad de la App
 
