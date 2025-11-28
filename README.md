@@ -134,7 +134,7 @@ git clone <https://github.com/aam0101/Tablero-de-Basketball---Parte-1>
 ## 📷 Capturas de Pantalla
 
 MainActivity — Marcador en tiempo real
-![Main Activity](resources/main_activity.png)
+![Main Activity](resource/main_activity.png)
 
 
 
